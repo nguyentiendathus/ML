@@ -1,0 +1,288 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{web:4}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=KV}{%
+         family={Kovenko},
+         familyi={K\bibinitperiod},
+         given={Volodymyr},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KV1}
+    \strng{fullhash}{KV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Emotional attitude captioning dataset}
+    \verb{url}
+    \verb https://data.mendeley.com/datasets/dym6p2pvbt/1
+    \endverb
+  \endentry
+
+  \entry{web:8}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=HS}{%
+         family={Hussain},
+         familyi={H\bibinitperiod},
+         given={Shadab},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HS1}
+    \strng{fullhash}{HS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Flickr8 dataset}
+    \verb{url}
+    \verb https://www.kaggle.com/datasets/shadabhussain/flickr8k
+    \endverb
+  \endentry
+
+  \entry{yamashita2018convolutional}{article}{}
+    \name{author}{4}{}{%
+      {{hash=YR}{%
+         family={Yamashita},
+         familyi={Y\bibinitperiod},
+         given={Rikiya},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Nishio},
+         familyi={N\bibinitperiod},
+         given={Mizuho},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DRKG}{%
+         family={Do},
+         familyi={D\bibinitperiod},
+         given={Richard Kinh\bibnamedelima Gian},
+         giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+      }}%
+      {{hash=TK}{%
+         family={Togashi},
+         familyi={T\bibinitperiod},
+         given={Kaori},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{YRNMDRKG+1}
+    \strng{fullhash}{YRNMDRKGTK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{611\bibrangedash 629}
+    \field{title}{Convolutional neural networks: an overview and application in
+  radiology}
+    \field{volume}{9}
+    \field{journaltitle}{Insights into imaging}
+    \field{year}{2018}
+  \endentry
+
+  \entry{web:2}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=MM}{%
+         family={Mandal},
+         familyi={M\bibinitperiod},
+         given={Manav},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MM1}
+    \strng{fullhash}{MM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Introduction to Convolutional Neural Networks (CNN)}
+    \verb{url}
+    \verb https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-net
+    \verb works-cnn/#be44
+    \endverb
+  \endentry
+
+  \entry{web:3}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=UD}{%
+         family={Unzueta},
+         familyi={U\bibinitperiod},
+         given={Diego},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{UD1}
+    \strng{fullhash}{UD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Fully Connected Layer vs. Convolutional Layer: Explained}
+    \verb{url}
+    \verb https://builtin.com/machine-learning/fully-connected-layer
+    \endverb
+  \endentry
+
+  \entry{web:5}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=BA}{%
+         family={Biswal},
+         familyi={B\bibinitperiod},
+         given={Avijeet},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BA1}
+    \strng{fullhash}{BA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Disadvantages of Recurrent Neural Network}
+    \verb{url}
+    \verb https://www.simplilearn.com/tutorials/deep-learning-tutorial/rnn?fbcl
+    \verb id=IwAR2mwkQG8bpGKALoRSrkAukOxGJiULNnm2vT1-84ShvtNdRPCJhThLKrZdo
+    \endverb
+  \endentry
+
+  \entry{hochreiter1997long}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HS}{%
+         family={Hochreiter},
+         familyi={H\bibinitperiod},
+         given={Sepp},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Schmidhuber},
+         familyi={S\bibinitperiod},
+         given={J{\"u}rgen},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MIT press}%
+    }
+    \strng{namehash}{HSSJ1}
+    \strng{fullhash}{HSSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{8}
+    \field{pages}{1735\bibrangedash 1780}
+    \field{title}{Long short-term memory}
+    \field{volume}{9}
+    \field{journaltitle}{Neural computation}
+    \field{year}{1997}
+  \endentry
+
+  \entry{web:6}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=THN}{%
+         family={Thanh},
+         familyi={T\bibinitperiod},
+         given={Huyen\bibnamedelima Nguyen},
+         giveni={H\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{THN1}
+    \strng{fullhash}{THN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{LSTM}
+    \verb{url}
+    \verb https://viblo.asia/p/recurrent-neural-network-tu-rnn-den-lstm-gGJ597z
+    \verb 1ZX2?fbclid=IwAR2CskZx40jmzFQ5Cts4WRd0X2M4bOBUG_EFC15NZO-W-IfRU9ZnBBl
+    \verb Nr2M
+    \endverb
+  \endentry
+
+  \entry{lavie2010evaluating}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=LA}{%
+         family={Lavie},
+         familyi={L\bibinitperiod},
+         given={Alon},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LA1}
+    \strng{fullhash}{LA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the 9th Conference of the Association for
+  Machine Translation in the Americas: Tutorials}
+    \field{title}{Evaluating the output of machine translation systems}
+    \field{year}{2010}
+  \endentry
+
+  \entry{papineni2002bleu}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=PK}{%
+         family={Papineni},
+         familyi={P\bibinitperiod},
+         given={Kishore},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=RS}{%
+         family={Roukos},
+         familyi={R\bibinitperiod},
+         given={Salim},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=WT}{%
+         family={Ward},
+         familyi={W\bibinitperiod},
+         given={Todd},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=ZWJ}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={Wei-Jing},
+         giveni={W\bibinithyphendelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PKRSWT+1}
+    \strng{fullhash}{PKRSWTZWJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the 40th annual meeting of the Association
+  for Computational Linguistics}
+    \field{pages}{311\bibrangedash 318}
+    \field{title}{Bleu: a method for automatic evaluation of machine
+  translation}
+    \field{year}{2002}
+  \endentry
+
+  \entry{web:10}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CG}{%
+         family={Cloud},
+         familyi={C\bibinitperiod},
+         given={Google},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CG1}
+    \strng{fullhash}{CG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Evaluating models}
+    \verb{url}
+    \verb https://cloud.google.com/translate/automl/docs/evaluate#bleu
+    \endverb
+  \endentry
+\enddatalist
+\endinput

@@ -1,0 +1,16 @@
+\chapter*{Kết luận} % Tên của chương
+\addcontentsline{toc}{chapter}{Kết luận} % Thêm tên chương vào mục lục
+
+\label{Chapter_end}
+
+Sau một thời gian nghiên cứu về MQTT và các ứng dụng liên quan tôi đã thu được một số kết quả như sau.
+
+Đã tìm hiểu được giao thức MQTT, trên cơ sở của giao thức này đã xây dựng thành công hệ thống thu thập và hiển thị dữ liệu nhiệt độ, độ ẩm. Hệ thống này bao gồm phần cứng sau:
+\begin{itemize}
+	\item Hai board ESP8266 với vai trò là publisher và subcriber, xử lí dữ liệu nhận được từ cảm biến, gửi cũng như nhận dữ liệu thông qua broker trung gian là HiveMQ.
+	\item Cảm biến DHT11 thu thập dữ liệu nhiệt độ, độ ẩm từ môi trường bên ngoài.
+\end{itemize}
+
+Mô hình của hệ thống có thể triển khai và ứng dụng nhiều vào các lĩnh vực khác nhau.  Tuy nhiên, để nâng cao tính bảo mật thì mô hình cần dùng một broker trả phí hoặc là tự phát triển broker thay vì sử dụng broker miễn phí như đã trình bày. Một số broker trả phí có thể kể tới là: Azure, AWS, CloudMQTT,...
+
+Kết quả nghiên cứu của tiểu luận này rất hữu ích cho những người mới tiếp cận với IoT, đặc biệt là sử dụng giao thức MQTT cần tài liệu tham khảo.
